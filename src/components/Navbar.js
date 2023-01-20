@@ -15,7 +15,6 @@ const links = [
     text: 'About',
   },
 ];
-
 const Navbar = () => {
   const [navbarOpen, setNavbarOpen] = useState(false);
 
